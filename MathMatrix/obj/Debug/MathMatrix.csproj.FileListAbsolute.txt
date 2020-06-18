@@ -1,0 +1,6 @@
+c:\users\ilya\documents\visual studio 2013\Projects\MathMatrix\MathMatrix\bin\Debug\MathMatrix.exe.config
+c:\users\ilya\documents\visual studio 2013\Projects\MathMatrix\MathMatrix\bin\Debug\MathMatrix.exe
+c:\users\ilya\documents\visual studio 2013\Projects\MathMatrix\MathMatrix\bin\Debug\MathMatrix.pdb
+c:\users\ilya\documents\visual studio 2013\Projects\MathMatrix\MathMatrix\obj\Debug\MathMatrix.csprojResolveAssemblyReference.cache
+c:\users\ilya\documents\visual studio 2013\Projects\MathMatrix\MathMatrix\obj\Debug\MathMatrix.exe
+c:\users\ilya\documents\visual studio 2013\Projects\MathMatrix\MathMatrix\obj\Debug\MathMatrix.pdb
